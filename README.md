@@ -17,15 +17,9 @@ Bu proje, Excel ve IBM Cognos Analytics kullanarak veri görselleştirme üzerin
   - Etkileşimli dashboard tasarımı (filtreler, seçimler, dinamik içerik)
 
 ## Dosyalar
-- `data/` → Veri setleri (CSV/XLSX)  
-- `excel/` → Excel dosyaları (temel görselleştirmeler)  
-- `cognos/` → Cognos dashboard çıktıları veya ekran görüntüleri  
-- `report/` → Proje raporu (PDF/DOCX)  
-- `README.md` → Proje açıklaması  
+- CarSalesByModelStart.xlsx ve IBM Cognos Data Link → Veri setleri (CSV/XLSX)  
 
 ## Kullanılan Araçlar
 - Microsoft Excel  
 - IBM Cognos Analytics  
 
-## Katkılar
-Bu proje, Excel’de temel veri görselleştirme adımlarını ve IBM Cognos üzerinde gelişmiş görselleştirmeler ile interaktif dashboard hazırlamayı kapsamaktadır. Çalışma, veri görselleştirme becerilerini geliştirmek için bir başlangıç projesi niteliğindedir.
