@@ -12,7 +12,7 @@ Bu proje, Excel ve IBM Cognos Analytics kullanarak veri görselleştirme üzerin
   - Pivot tablolar ile özet analizler
 
 - **Advanced Visualization & Dashboards (Cognos):**
-  - Gelişmiş grafik türleri (histogram, heatmap vb.)
+  - Gelişmiş grafik türleri (treemap, heatmap vb.)
   - Farklı görselleştirmelerin bir arada kullanımı
   - Etkileşimli dashboard tasarımı (filtreler, seçimler, dinamik içerik)
 
